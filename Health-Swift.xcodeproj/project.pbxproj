@@ -28,6 +28,20 @@
 		95D7F8131CF7B36F00FDE58A /* MedicalData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D7F8111CF7B36F00FDE58A /* MedicalData.swift */; };
 		95D7F8151CF7B3BE00FDE58A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8141CF7B3BE00FDE58A /* Main.storyboard */; };
 		95D7F8351CF7B53900FDE58A /* Minus.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8341CF7B53900FDE58A /* Minus.wav */; };
+		95D7F8371CF7B5BC00FDE58A /* Zero.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8361CF7B5BC00FDE58A /* Zero.wav */; };
+		95D7F8391CF7B5CA00FDE58A /* Two.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8381CF7B5CA00FDE58A /* Two.wav */; };
+		95D7F83B1CF7B5D200FDE58A /* Three.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F83A1CF7B5D200FDE58A /* Three.wav */; };
+		95D7F83E1CF7B5DF00FDE58A /* Seven.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F83C1CF7B5DF00FDE58A /* Seven.wav */; };
+		95D7F83F1CF7B5DF00FDE58A /* Six.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F83D1CF7B5DF00FDE58A /* Six.wav */; };
+		95D7F8451CF7B5E800FDE58A /* Longitude.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8401CF7B5E800FDE58A /* Longitude.wav */; };
+		95D7F8461CF7B5E800FDE58A /* Minus.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8411CF7B5E800FDE58A /* Minus.wav */; };
+		95D7F8471CF7B5E800FDE58A /* Nine.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8421CF7B5E800FDE58A /* Nine.wav */; };
+		95D7F8481CF7B5E800FDE58A /* One.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8431CF7B5E800FDE58A /* One.wav */; };
+		95D7F8491CF7B5E800FDE58A /* Point.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8441CF7B5E800FDE58A /* Point.wav */; };
+		95D7F84E1CF7B5F200FDE58A /* Eight.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F84A1CF7B5F200FDE58A /* Eight.wav */; };
+		95D7F84F1CF7B5F200FDE58A /* Five.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F84B1CF7B5F200FDE58A /* Five.wav */; };
+		95D7F8501CF7B5F200FDE58A /* Four.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F84C1CF7B5F200FDE58A /* Four.wav */; };
+		95D7F8511CF7B5F200FDE58A /* Latitude.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F84D1CF7B5F200FDE58A /* Latitude.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +70,20 @@
 		95D7F8111CF7B36F00FDE58A /* MedicalData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MedicalData.swift; sourceTree = "<group>"; };
 		95D7F8141CF7B3BE00FDE58A /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		95D7F8341CF7B53900FDE58A /* Minus.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Minus.wav; path = "../../Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Minus.wav"; sourceTree = "<group>"; };
+		95D7F8361CF7B5BC00FDE58A /* Zero.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Zero.wav; path = "../HealthStatus-master/Zero.wav"; sourceTree = "<group>"; };
+		95D7F8381CF7B5CA00FDE58A /* Two.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Two.wav; path = "../HealthStatus-master/Two.wav"; sourceTree = "<group>"; };
+		95D7F83A1CF7B5D200FDE58A /* Three.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Three.wav; path = "../HealthStatus-master/Three.wav"; sourceTree = "<group>"; };
+		95D7F83C1CF7B5DF00FDE58A /* Seven.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Seven.wav; path = "../HealthStatus-master/Seven.wav"; sourceTree = "<group>"; };
+		95D7F83D1CF7B5DF00FDE58A /* Six.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Six.wav; path = "../HealthStatus-master/Six.wav"; sourceTree = "<group>"; };
+		95D7F8401CF7B5E800FDE58A /* Longitude.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Longitude.wav; path = "../HealthStatus-master/Longitude.wav"; sourceTree = "<group>"; };
+		95D7F8411CF7B5E800FDE58A /* Minus.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Minus.wav; path = "../HealthStatus-master/Minus.wav"; sourceTree = "<group>"; };
+		95D7F8421CF7B5E800FDE58A /* Nine.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Nine.wav; path = "../HealthStatus-master/Nine.wav"; sourceTree = "<group>"; };
+		95D7F8431CF7B5E800FDE58A /* One.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = One.wav; path = "../HealthStatus-master/One.wav"; sourceTree = "<group>"; };
+		95D7F8441CF7B5E800FDE58A /* Point.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Point.wav; path = "../HealthStatus-master/Point.wav"; sourceTree = "<group>"; };
+		95D7F84A1CF7B5F200FDE58A /* Eight.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Eight.wav; path = "../HealthStatus-master/Eight.wav"; sourceTree = "<group>"; };
+		95D7F84B1CF7B5F200FDE58A /* Five.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Five.wav; path = "../HealthStatus-master/Five.wav"; sourceTree = "<group>"; };
+		95D7F84C1CF7B5F200FDE58A /* Four.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Four.wav; path = "../HealthStatus-master/Four.wav"; sourceTree = "<group>"; };
+		95D7F84D1CF7B5F200FDE58A /* Latitude.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Latitude.wav; path = "../HealthStatus-master/Latitude.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,7 +115,21 @@
 		81BA813C1A49DA1800E65899 = {
 			isa = PBXGroup;
 			children = (
+				95D7F83A1CF7B5D200FDE58A /* Three.wav */,
+				95D7F8401CF7B5E800FDE58A /* Longitude.wav */,
+				95D7F8411CF7B5E800FDE58A /* Minus.wav */,
+				95D7F8421CF7B5E800FDE58A /* Nine.wav */,
+				95D7F8431CF7B5E800FDE58A /* One.wav */,
+				95D7F8441CF7B5E800FDE58A /* Point.wav */,
 				95D7F8341CF7B53900FDE58A /* Minus.wav */,
+				95D7F8381CF7B5CA00FDE58A /* Two.wav */,
+				95D7F8361CF7B5BC00FDE58A /* Zero.wav */,
+				95D7F83C1CF7B5DF00FDE58A /* Seven.wav */,
+				95D7F83D1CF7B5DF00FDE58A /* Six.wav */,
+				95D7F84A1CF7B5F200FDE58A /* Eight.wav */,
+				95D7F84B1CF7B5F200FDE58A /* Five.wav */,
+				95D7F84C1CF7B5F200FDE58A /* Four.wav */,
+				95D7F84D1CF7B5F200FDE58A /* Latitude.wav */,
 				81BA81471A49DA1800E65899 /* ParseStarterProject */,
 				814C3AC51B69877600E307BB /* Resources */,
 				81BA816A1A49DB5600E65899 /* Frameworks */,
@@ -204,9 +246,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95D7F8501CF7B5F200FDE58A /* Four.wav in Resources */,
+				95D7F8371CF7B5BC00FDE58A /* Zero.wav in Resources */,
+				95D7F84F1CF7B5F200FDE58A /* Five.wav in Resources */,
+				95D7F8461CF7B5E800FDE58A /* Minus.wav in Resources */,
+				95D7F83E1CF7B5DF00FDE58A /* Seven.wav in Resources */,
 				95D7F8351CF7B53900FDE58A /* Minus.wav in Resources */,
 				814C3ACB1B69877600E307BB /* Images.xcassets in Resources */,
+				95D7F8471CF7B5E800FDE58A /* Nine.wav in Resources */,
+				95D7F8491CF7B5E800FDE58A /* Point.wav in Resources */,
+				95D7F83B1CF7B5D200FDE58A /* Three.wav in Resources */,
 				95D7F8151CF7B3BE00FDE58A /* Main.storyboard in Resources */,
+				95D7F8391CF7B5CA00FDE58A /* Two.wav in Resources */,
+				95D7F84E1CF7B5F200FDE58A /* Eight.wav in Resources */,
+				95D7F8481CF7B5E800FDE58A /* One.wav in Resources */,
+				95D7F8451CF7B5E800FDE58A /* Longitude.wav in Resources */,
+				95D7F83F1CF7B5DF00FDE58A /* Six.wav in Resources */,
+				95D7F8511CF7B5F200FDE58A /* Latitude.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "163DCDC10B3528EADF2BB1B8ACFD45E10EFB4069",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F4BD55922F99776C6797A3DAB09A8DB7ED4CA2BB" : 0,
+    "163DCDC10B3528EADF2BB1B8ACFD45E10EFB4069" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6D674C2B-32D6-4503-B7D4-4311DA9E6A97",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F4BD55922F99776C6797A3DAB09A8DB7ED4CA2BB" : "..\/Documents\/LocationAudio",
+    "163DCDC10B3528EADF2BB1B8ACFD45E10EFB4069" : "ParseServerStarterProject%209\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Health-Swift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Health-Swift.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ABSYKS\/HealthState.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "163DCDC10B3528EADF2BB1B8ACFD45E10EFB4069"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ABSYKS\/HealthStatus.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F4BD55922F99776C6797A3DAB09A8DB7ED4CA2BB"
+    }
+  ]
+}
