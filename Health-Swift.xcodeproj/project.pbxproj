@@ -42,6 +42,10 @@
 		95D7F84F1CF7B5F200FDE58A /* Five.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F84B1CF7B5F200FDE58A /* Five.wav */; };
 		95D7F8501CF7B5F200FDE58A /* Four.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F84C1CF7B5F200FDE58A /* Four.wav */; };
 		95D7F8511CF7B5F200FDE58A /* Latitude.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F84D1CF7B5F200FDE58A /* Latitude.wav */; };
+		95D7F8561CF7B9D900FDE58A /* Back.png in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8521CF7B9D900FDE58A /* Back.png */; };
+		95D7F8571CF7B9D900FDE58A /* CODE Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8531CF7B9D900FDE58A /* CODE Bold.otf */; };
+		95D7F8581CF7B9D900FDE58A /* SignPainter.otf in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8541CF7B9D900FDE58A /* SignPainter.otf */; };
+		95D7F8591CF7B9D900FDE58A /* System San Francisco Text Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8551CF7B9D900FDE58A /* System San Francisco Text Medium.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -84,6 +88,10 @@
 		95D7F84B1CF7B5F200FDE58A /* Five.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Five.wav; path = "../HealthStatus-master/Five.wav"; sourceTree = "<group>"; };
 		95D7F84C1CF7B5F200FDE58A /* Four.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Four.wav; path = "../HealthStatus-master/Four.wav"; sourceTree = "<group>"; };
 		95D7F84D1CF7B5F200FDE58A /* Latitude.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Latitude.wav; path = "../HealthStatus-master/Latitude.wav"; sourceTree = "<group>"; };
+		95D7F8521CF7B9D900FDE58A /* Back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Back.png; path = "../../Desktop/ios images/Folders/spr/Back.png"; sourceTree = "<group>"; };
+		95D7F8531CF7B9D900FDE58A /* CODE Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "CODE Bold.otf"; path = "../../../../Library/Fonts/CODE Bold.otf"; sourceTree = "<group>"; };
+		95D7F8541CF7B9D900FDE58A /* SignPainter.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = SignPainter.otf; path = ../../../../Library/Fonts/SignPainter.otf; sourceTree = "<group>"; };
+		95D7F8551CF7B9D900FDE58A /* System San Francisco Text Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "System San Francisco Text Medium.ttf"; path = "../../../../Library/Fonts/System San Francisco Text Medium.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +138,10 @@
 				95D7F84B1CF7B5F200FDE58A /* Five.wav */,
 				95D7F84C1CF7B5F200FDE58A /* Four.wav */,
 				95D7F84D1CF7B5F200FDE58A /* Latitude.wav */,
+				95D7F8521CF7B9D900FDE58A /* Back.png */,
+				95D7F8531CF7B9D900FDE58A /* CODE Bold.otf */,
+				95D7F8541CF7B9D900FDE58A /* SignPainter.otf */,
+				95D7F8551CF7B9D900FDE58A /* System San Francisco Text Medium.ttf */,
 				81BA81471A49DA1800E65899 /* ParseStarterProject */,
 				814C3AC51B69877600E307BB /* Resources */,
 				81BA816A1A49DB5600E65899 /* Frameworks */,
@@ -220,6 +232,7 @@
 				TargetAttributes = {
 					81BA81441A49DA1800E65899 = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = FBPB52C9P6;
 					};
 				};
 			};
@@ -246,13 +259,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95D7F8561CF7B9D900FDE58A /* Back.png in Resources */,
 				95D7F8501CF7B5F200FDE58A /* Four.wav in Resources */,
+				95D7F8581CF7B9D900FDE58A /* SignPainter.otf in Resources */,
 				95D7F8371CF7B5BC00FDE58A /* Zero.wav in Resources */,
 				95D7F84F1CF7B5F200FDE58A /* Five.wav in Resources */,
+				95D7F8591CF7B9D900FDE58A /* System San Francisco Text Medium.ttf in Resources */,
 				95D7F8461CF7B5E800FDE58A /* Minus.wav in Resources */,
 				95D7F83E1CF7B5DF00FDE58A /* Seven.wav in Resources */,
 				95D7F8351CF7B53900FDE58A /* Minus.wav in Resources */,
 				814C3ACB1B69877600E307BB /* Images.xcassets in Resources */,
+				95D7F8571CF7B9D900FDE58A /* CODE Bold.otf in Resources */,
 				95D7F8471CF7B5E800FDE58A /* Nine.wav in Resources */,
 				95D7F8491CF7B5E800FDE58A /* Point.wav in Resources */,
 				95D7F83B1CF7B5D200FDE58A /* Three.wav in Resources */,
@@ -375,6 +392,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -390,6 +408,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
