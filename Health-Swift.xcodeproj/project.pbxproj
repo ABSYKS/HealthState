@@ -27,7 +27,7 @@
 		95D7F8121CF7B36F00FDE58A /* EditProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D7F8101CF7B36F00FDE58A /* EditProfile.swift */; };
 		95D7F8131CF7B36F00FDE58A /* MedicalData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D7F8111CF7B36F00FDE58A /* MedicalData.swift */; };
 		95D7F8151CF7B3BE00FDE58A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8141CF7B3BE00FDE58A /* Main.storyboard */; };
-		95D7F8331CF7B4ED00FDE58A /* Minus.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8321CF7B4ED00FDE58A /* Minus.wav */; };
+		95D7F8351CF7B53900FDE58A /* Minus.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8341CF7B53900FDE58A /* Minus.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,7 +55,7 @@
 		95D7F8101CF7B36F00FDE58A /* EditProfile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditProfile.swift; sourceTree = "<group>"; };
 		95D7F8111CF7B36F00FDE58A /* MedicalData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MedicalData.swift; sourceTree = "<group>"; };
 		95D7F8141CF7B3BE00FDE58A /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		95D7F8321CF7B4ED00FDE58A /* Minus.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Minus.wav; path = "../HealthStatus-master 2/Minus.wav"; sourceTree = "<group>"; };
+		95D7F8341CF7B53900FDE58A /* Minus.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Minus.wav; path = "../../Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Minus.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,7 +87,7 @@
 		81BA813C1A49DA1800E65899 = {
 			isa = PBXGroup;
 			children = (
-				95D7F8321CF7B4ED00FDE58A /* Minus.wav */,
+				95D7F8341CF7B53900FDE58A /* Minus.wav */,
 				81BA81471A49DA1800E65899 /* ParseStarterProject */,
 				814C3AC51B69877600E307BB /* Resources */,
 				81BA816A1A49DB5600E65899 /* Frameworks */,
@@ -204,7 +204,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				95D7F8331CF7B4ED00FDE58A /* Minus.wav in Resources */,
+				95D7F8351CF7B53900FDE58A /* Minus.wav in Resources */,
 				814C3ACB1B69877600E307BB /* Images.xcassets in Resources */,
 				95D7F8151CF7B3BE00FDE58A /* Main.storyboard in Resources */,
 			);
