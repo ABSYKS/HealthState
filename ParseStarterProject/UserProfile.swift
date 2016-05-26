@@ -8,7 +8,7 @@
 
 import Foundation
 import UIKit
-
+ 
 class UserProfile: UIViewController, UIImagePickerControllerDelegate, UINavigationControllerDelegate {
     
     @IBOutlet weak var myImage: UIImageView!

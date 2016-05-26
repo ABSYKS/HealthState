@@ -4,10 +4,10 @@
 //
 //  Created by Simon Bessey on 26/05/2016.
 //  Copyright © 2016 Parse. All rights reserved.
-//
+// 
 
 import Foundation
-
+  
 /**
  
  Collection of functions for statistical calculation.

@@ -8,7 +8,7 @@
 
 import Foundation
 
-
+  
 import UIKit
 
 var averageBodyTemperature = [Double]()

@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		814C3ACA1B69877600E307BB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 814C3AC61B69877600E307BB /* Main.storyboard */; };
 		814C3ACB1B69877600E307BB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 814C3AC81B69877600E307BB /* Images.xcassets */; };
 		81BA814B1A49DA1800E65899 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BA814A1A49DA1800E65899 /* AppDelegate.swift */; };
 		81BA814D1A49DA1800E65899 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BA814C1A49DA1800E65899 /* ViewController.swift */; };
@@ -22,15 +21,12 @@
 		95D7F8011CF7ABC100FDE58A /* BTemp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D7F8001CF7ABC100FDE58A /* BTemp.swift */; };
 		95D7F8031CF7ABCD00FDE58A /* GetHelp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D7F8021CF7ABCD00FDE58A /* GetHelp.swift */; };
 		95D7F8051CF7ABDE00FDE58A /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D7F8041CF7ABDE00FDE58A /* UserProfile.swift */; };
-		95D7F8071CF7ABE700FDE58A /* MedicalData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D7F8061CF7ABE700FDE58A /* MedicalData.swift */; };
-		95D7F8091CF7ABEE00FDE58A /* EditProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D7F8081CF7ABEE00FDE58A /* EditProfile.swift */; };
 		95D7F80B1CF7ABF900FDE58A /* HeartVitals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D7F80A1CF7ABF900FDE58A /* HeartVitals.swift */; };
 		95D7F80D1CF7AC0600FDE58A /* BLEdevices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D7F80C1CF7AC0600FDE58A /* BLEdevices.swift */; };
 		95D7F80F1CF7AC1500FDE58A /* Sigma.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D7F80E1CF7AC1500FDE58A /* Sigma.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		814C3AC71B69877600E307BB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		814C3AC81B69877600E307BB /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		814C3AC91B69877600E307BB /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		81BA81451A49DA1800E65899 /* Health-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Health-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -49,8 +45,6 @@
 		95D7F8001CF7ABC100FDE58A /* BTemp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BTemp.swift; sourceTree = "<group>"; };
 		95D7F8021CF7ABCD00FDE58A /* GetHelp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetHelp.swift; sourceTree = "<group>"; };
 		95D7F8041CF7ABDE00FDE58A /* UserProfile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
-		95D7F8061CF7ABE700FDE58A /* MedicalData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MedicalData.swift; sourceTree = "<group>"; };
-		95D7F8081CF7ABEE00FDE58A /* EditProfile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditProfile.swift; sourceTree = "<group>"; };
 		95D7F80A1CF7ABF900FDE58A /* HeartVitals.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeartVitals.swift; sourceTree = "<group>"; };
 		95D7F80C1CF7AC0600FDE58A /* BLEdevices.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BLEdevices.swift; sourceTree = "<group>"; };
 		95D7F80E1CF7AC1500FDE58A /* Sigma.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sigma.swift; sourceTree = "<group>"; };
@@ -111,11 +105,8 @@
 				95D7F8001CF7ABC100FDE58A /* BTemp.swift */,
 				95D7F8021CF7ABCD00FDE58A /* GetHelp.swift */,
 				95D7F8041CF7ABDE00FDE58A /* UserProfile.swift */,
-				95D7F8061CF7ABE700FDE58A /* MedicalData.swift */,
-				95D7F8081CF7ABEE00FDE58A /* EditProfile.swift */,
 				95D7F80A1CF7ABF900FDE58A /* HeartVitals.swift */,
 				95D7F80C1CF7AC0600FDE58A /* BLEdevices.swift */,
-				814C3AC61B69877600E307BB /* Main.storyboard */,
 			);
 			path = ParseStarterProject;
 			sourceTree = "<group>";
@@ -201,7 +192,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				814C3ACA1B69877600E307BB /* Main.storyboard in Resources */,
 				814C3ACB1B69877600E307BB /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -220,27 +210,13 @@
 				95D7F8011CF7ABC100FDE58A /* BTemp.swift in Sources */,
 				95D7F8031CF7ABCD00FDE58A /* GetHelp.swift in Sources */,
 				95D7F80D1CF7AC0600FDE58A /* BLEdevices.swift in Sources */,
-				95D7F8071CF7ABE700FDE58A /* MedicalData.swift in Sources */,
 				95D7F7FF1CF7ABBA00FDE58A /* Menu.swift in Sources */,
 				95D7F80B1CF7ABF900FDE58A /* HeartVitals.swift in Sources */,
 				81BA814B1A49DA1800E65899 /* AppDelegate.swift in Sources */,
-				95D7F8091CF7ABEE00FDE58A /* EditProfile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		814C3AC61B69877600E307BB /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				814C3AC71B69877600E307BB /* Base */,
-			);
-			name = Main.storyboard;
-			path = ../Resources;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		81BA81621A49DA1800E65899 /* Debug */ = {

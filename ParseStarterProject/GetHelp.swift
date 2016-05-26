@@ -172,7 +172,7 @@ class GetHelp: UIViewController, CLLocationManagerDelegate {
                 self.readLocation(characters[i-1], x: x  )
                 break;
                 
-            case total:
+             case total:
                 let x = (Double)(i) + 2
                 self.readLocation(characters[i-1], x: x  )
                 

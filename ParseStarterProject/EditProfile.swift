@@ -125,13 +125,18 @@ UINavigationControllerDelegate, UITextViewDelegate {
             
         else {
             
-            let alert = UIAlertController(title: "Oops!", message:"You must fill in all fields...", preferredStyle: .Alert)
-            let action = UIAlertAction(title: "OK", style: .Default) { _ in
+            if #available(iOS 8.0, *) {
+                let alert = UIAlertController(title: "Oops!", message:"You must fill in all fields...", preferredStyle: .Alert)
+                let action = UIAlertAction(title: "OK", style: .Default) { _ in
+                    
+                }
+                alert.addAction(action)
+                self.presentViewController(alert, animated: true){}
                 
+            } else {
+                // Fallback on earlier versions
             }
-            alert.addAction(action)
-            self.presentViewController(alert, animated: true){}
-            
+
         }
         
         func textViewDidBeginEditing(firstname: UITextView, lastname: UITextView, birthday: UITextView, email: UITextView, emergencyContact: UITextView, contactNumber: UITextView, eRelationship: UITextView) {

@@ -143,12 +143,17 @@ class MedicalData: UIViewController {
             
         else{
             
-            let alert = UIAlertController(title: "Invalid", message: "You must fill in the required fields.", preferredStyle: .Alert)
-            let action = UIAlertAction(title: "OK", style: .Default) { _ in
-                
+            if #available(iOS 8.0, *) {
+                let alert = UIAlertController(title: "Invalid", message: "You must fill in the required fields.", preferredStyle: .Alert)
+                let action = UIAlertAction(title: "OK", style: .Default) { _ in
+                    
+                }
+                alert.addAction(action)
+                self.presentViewController(alert, animated: true){}
+            } else {
+                // Fallback on earlier versions
             }
-            alert.addAction(action)
-            self.presentViewController(alert, animated: true){}
+
             
         }
         
