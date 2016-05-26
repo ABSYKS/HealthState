@@ -8,7 +8,7 @@
 
  
 import Foundation
-import UIKit
+import UIKit 
 
 var currentHeartRate = [Double]()
 var averageHeartRate = [Double]()

@@ -24,6 +24,8 @@
 		95D7F80B1CF7ABF900FDE58A /* HeartVitals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D7F80A1CF7ABF900FDE58A /* HeartVitals.swift */; };
 		95D7F80D1CF7AC0600FDE58A /* BLEdevices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D7F80C1CF7AC0600FDE58A /* BLEdevices.swift */; };
 		95D7F80F1CF7AC1500FDE58A /* Sigma.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D7F80E1CF7AC1500FDE58A /* Sigma.swift */; };
+		95D7F8121CF7B36F00FDE58A /* EditProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D7F8101CF7B36F00FDE58A /* EditProfile.swift */; };
+		95D7F8131CF7B36F00FDE58A /* MedicalData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D7F8111CF7B36F00FDE58A /* MedicalData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +50,8 @@
 		95D7F80A1CF7ABF900FDE58A /* HeartVitals.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeartVitals.swift; sourceTree = "<group>"; };
 		95D7F80C1CF7AC0600FDE58A /* BLEdevices.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BLEdevices.swift; sourceTree = "<group>"; };
 		95D7F80E1CF7AC1500FDE58A /* Sigma.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sigma.swift; sourceTree = "<group>"; };
+		95D7F8101CF7B36F00FDE58A /* EditProfile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditProfile.swift; sourceTree = "<group>"; };
+		95D7F8111CF7B36F00FDE58A /* MedicalData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MedicalData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				95D7F8021CF7ABCD00FDE58A /* GetHelp.swift */,
 				95D7F8041CF7ABDE00FDE58A /* UserProfile.swift */,
 				95D7F80A1CF7ABF900FDE58A /* HeartVitals.swift */,
+				95D7F8101CF7B36F00FDE58A /* EditProfile.swift */,
+				95D7F8111CF7B36F00FDE58A /* MedicalData.swift */,
 				95D7F80C1CF7AC0600FDE58A /* BLEdevices.swift */,
 			);
 			path = ParseStarterProject;
@@ -204,7 +210,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				95D7F7FD1CF7ABB000FDE58A /* ProfilePage.swift in Sources */,
+				95D7F8131CF7B36F00FDE58A /* MedicalData.swift in Sources */,
 				81BA814D1A49DA1800E65899 /* ViewController.swift in Sources */,
+				95D7F8121CF7B36F00FDE58A /* EditProfile.swift in Sources */,
 				95D7F8051CF7ABDE00FDE58A /* UserProfile.swift in Sources */,
 				95D7F80F1CF7AC1500FDE58A /* Sigma.swift in Sources */,
 				95D7F8011CF7ABC100FDE58A /* BTemp.swift in Sources */,

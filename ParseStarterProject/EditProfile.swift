@@ -8,7 +8,7 @@
 
 import UIKit
 import Parse
-
+ 
 class EditProfile: UIViewController, UIImagePickerControllerDelegate,
 UINavigationControllerDelegate, UITextViewDelegate {
     @IBOutlet weak var firstname: UITextField!
