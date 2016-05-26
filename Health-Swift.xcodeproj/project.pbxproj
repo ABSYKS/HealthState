@@ -46,6 +46,13 @@
 		95D7F8571CF7B9D900FDE58A /* CODE Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8531CF7B9D900FDE58A /* CODE Bold.otf */; };
 		95D7F8581CF7B9D900FDE58A /* SignPainter.otf in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8541CF7B9D900FDE58A /* SignPainter.otf */; };
 		95D7F8591CF7B9D900FDE58A /* System San Francisco Text Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8551CF7B9D900FDE58A /* System San Francisco Text Medium.ttf */; };
+		95D7F85B1CF7BBDD00FDE58A /* Screenshots.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F85A1CF7BBDD00FDE58A /* Screenshots.xcassets */; };
+		95D7F8621CF7BCB800FDE58A /* IMG_0100.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F85C1CF7BCB800FDE58A /* IMG_0100.PNG */; };
+		95D7F8631CF7BCB800FDE58A /* IMG_0099.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F85D1CF7BCB800FDE58A /* IMG_0099.PNG */; };
+		95D7F8641CF7BCB800FDE58A /* IMG_0096.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F85E1CF7BCB800FDE58A /* IMG_0096.PNG */; };
+		95D7F8651CF7BCB800FDE58A /* IMG_0093.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F85F1CF7BCB800FDE58A /* IMG_0093.PNG */; };
+		95D7F8661CF7BCB800FDE58A /* IMG_0092.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8601CF7BCB800FDE58A /* IMG_0092.PNG */; };
+		95D7F8671CF7BCB800FDE58A /* IMG_0091.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 95D7F8611CF7BCB800FDE58A /* IMG_0091.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -92,6 +99,13 @@
 		95D7F8531CF7B9D900FDE58A /* CODE Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "CODE Bold.otf"; path = "../../../../Library/Fonts/CODE Bold.otf"; sourceTree = "<group>"; };
 		95D7F8541CF7B9D900FDE58A /* SignPainter.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = SignPainter.otf; path = ../../../../Library/Fonts/SignPainter.otf; sourceTree = "<group>"; };
 		95D7F8551CF7B9D900FDE58A /* System San Francisco Text Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "System San Francisco Text Medium.ttf"; path = "../../../../Library/Fonts/System San Francisco Text Medium.ttf"; sourceTree = "<group>"; };
+		95D7F85A1CF7BBDD00FDE58A /* Screenshots.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Screenshots.xcassets; sourceTree = "<group>"; };
+		95D7F85C1CF7BCB800FDE58A /* IMG_0100.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_0100.PNG; path = ../../Desktop/IMG_0100.PNG; sourceTree = "<group>"; };
+		95D7F85D1CF7BCB800FDE58A /* IMG_0099.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_0099.PNG; path = ../../Desktop/IMG_0099.PNG; sourceTree = "<group>"; };
+		95D7F85E1CF7BCB800FDE58A /* IMG_0096.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_0096.PNG; path = ../../Desktop/IMG_0096.PNG; sourceTree = "<group>"; };
+		95D7F85F1CF7BCB800FDE58A /* IMG_0093.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_0093.PNG; path = ../../Desktop/IMG_0093.PNG; sourceTree = "<group>"; };
+		95D7F8601CF7BCB800FDE58A /* IMG_0092.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_0092.PNG; path = ../../Desktop/IMG_0092.PNG; sourceTree = "<group>"; };
+		95D7F8611CF7BCB800FDE58A /* IMG_0091.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_0091.PNG; path = ../../Desktop/IMG_0091.PNG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +160,13 @@
 				814C3AC51B69877600E307BB /* Resources */,
 				81BA816A1A49DB5600E65899 /* Frameworks */,
 				81BA81461A49DA1800E65899 /* Products */,
+				95D7F85A1CF7BBDD00FDE58A /* Screenshots.xcassets */,
+				95D7F85C1CF7BCB800FDE58A /* IMG_0100.PNG */,
+				95D7F85D1CF7BCB800FDE58A /* IMG_0099.PNG */,
+				95D7F85E1CF7BCB800FDE58A /* IMG_0096.PNG */,
+				95D7F85F1CF7BCB800FDE58A /* IMG_0093.PNG */,
+				95D7F8601CF7BCB800FDE58A /* IMG_0092.PNG */,
+				95D7F8611CF7BCB800FDE58A /* IMG_0091.PNG */,
 			);
 			sourceTree = "<group>";
 		};
@@ -264,12 +285,17 @@
 				95D7F8581CF7B9D900FDE58A /* SignPainter.otf in Resources */,
 				95D7F8371CF7B5BC00FDE58A /* Zero.wav in Resources */,
 				95D7F84F1CF7B5F200FDE58A /* Five.wav in Resources */,
+				95D7F85B1CF7BBDD00FDE58A /* Screenshots.xcassets in Resources */,
 				95D7F8591CF7B9D900FDE58A /* System San Francisco Text Medium.ttf in Resources */,
 				95D7F8461CF7B5E800FDE58A /* Minus.wav in Resources */,
 				95D7F83E1CF7B5DF00FDE58A /* Seven.wav in Resources */,
+				95D7F8671CF7BCB800FDE58A /* IMG_0091.PNG in Resources */,
 				95D7F8351CF7B53900FDE58A /* Minus.wav in Resources */,
+				95D7F8661CF7BCB800FDE58A /* IMG_0092.PNG in Resources */,
 				814C3ACB1B69877600E307BB /* Images.xcassets in Resources */,
 				95D7F8571CF7B9D900FDE58A /* CODE Bold.otf in Resources */,
+				95D7F8621CF7BCB800FDE58A /* IMG_0100.PNG in Resources */,
+				95D7F8631CF7BCB800FDE58A /* IMG_0099.PNG in Resources */,
 				95D7F8471CF7B5E800FDE58A /* Nine.wav in Resources */,
 				95D7F8491CF7B5E800FDE58A /* Point.wav in Resources */,
 				95D7F83B1CF7B5D200FDE58A /* Three.wav in Resources */,
@@ -279,7 +305,9 @@
 				95D7F8481CF7B5E800FDE58A /* One.wav in Resources */,
 				95D7F8451CF7B5E800FDE58A /* Longitude.wav in Resources */,
 				95D7F83F1CF7B5DF00FDE58A /* Six.wav in Resources */,
+				95D7F8641CF7BCB800FDE58A /* IMG_0096.PNG in Resources */,
 				95D7F8511CF7B5F200FDE58A /* Latitude.wav in Resources */,
+				95D7F8651CF7BCB800FDE58A /* IMG_0093.PNG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
